@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Pacifico&display=swap');
+
+.container-fluid{
+    height: 35rem;
+    background-image: url('../../assets/imagen-proyecto.png');
+    background-size: cover;
+}
